@@ -27,7 +27,7 @@
 
 
 <h1 align="center"> </h1>
-<h1 align="center">Netflix Analysis using SQL</h1>
+<h1 align="center">Netflix Analysis using PostgreSQL</h1>
 <img src="https://github.com/20Ani01/Netflix_SQL_Analysis/blob/main/Netflix-Logo.png">
 
 ## Objective
