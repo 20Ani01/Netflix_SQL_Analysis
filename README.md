@@ -31,4 +31,32 @@
 <img src="https://github.com/20Ani01/Netflix_SQL_Analysis/blob/main/Netflix-Logo.png">
 
 ## Objective
-sghsrned
+1. Count the number of Movies vs TV Shows
+
+2. Find the most common rating for Movie & TV Show
+
+3. List all the movies released in 2020
+
+4. Find top 5 countries with most content on netflix
+
+5. Identify the longest movie
+
+6. Find the contents added in last 5 years
+
+7. Find all the movie/shows directed by 'Rajiv Chilaka'
+
+8. List all TV Shows more than 5 seasons
+
+9. Count the number of times each Genre
+
+10. Find each year and the average number of content released by India on netflix and return top 5 year with highest average content
+
+11. List all the movies that are documentaries
+
+12. Find all the content without a director
+
+13. Find how many movies actor 'Salman Khan' appeared in last 10 years
+
+14. Find top 10 actors who have appeared in the highest number of movies produced in india
+
+15. Categorise the content based on the presence of the keywords 'Kill' and 'violence' in the description field. Label content containing these keywords as 'Bad' and all othe content as 'Good'. Count howmany items fall into each category
