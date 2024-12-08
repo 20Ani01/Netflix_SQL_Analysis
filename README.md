@@ -29,4 +29,4 @@
 How to build a Rock Paper and Scissors game in c language.
 
 # Netflix_SQL_Analysis
-[Netflix_logo]{https://r.search.yahoo.com/_ylt=AwrKAWcyGlZnKvgBCoe9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzFkMWI2NTI0ZWViOTNiNWM2MGNhNjA0OWM1NTI3ODI2BGdwb3MDNDYEaXQDYmluZw--/RV=2/RE=1733724851/RO=11/RU=https%3a%2f%2ffilmschoolrejects.com%2fnetflix-quits-cannes-and-maybe-thats-okay%2f/RK=2/RS=BpJylOoVYvt7XjEWAwKLNFkeFKg-}
+[Netflix_logo]{}
