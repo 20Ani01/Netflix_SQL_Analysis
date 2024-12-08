@@ -29,4 +29,4 @@
 How to build a Rock Paper and Scissors game in c language.
 
 # Netflix_SQL_Analysis
-![Netflix_logo]{https://github.com/20Ani01/Netflix_SQL_Analysis/blob/main/Netflix-Logo.png}
+![Netflix_logo](https://github.com/20Ani01/Netflix_SQL_Analysis/blob/main/Netflix-Logo.png)
