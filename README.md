@@ -2,15 +2,14 @@
 <h3 align="center">A passionate Data Science learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 
-- 🔭 I’m currently working on **Bangaluru House Price Prediction**
+- 🔭 I’m currently working on **Electricity Demand prediction**
 
-- 🌱 I’m currently learning **Machine Learning, Power BI and Tableau**
+- 🌱 I’m currently learning **Machine Learning, Power BI, Excel, Big Data**
 
 - 💬 Ask me about **Data Visualization, Machine Learning, Data Science**
 
 - 📫 How to reach me **anirbanpalit84@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
