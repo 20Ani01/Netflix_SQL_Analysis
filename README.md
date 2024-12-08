@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/anirban palit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirban palit" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anirban palit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirban palit" height="30" width="40" /></a>
-<a href="https://fb.com/anirban palit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anirban palit" height="30" width="40" /></a>
+<a href="[https://fb.com/anirban palit](https://www.facebook.com/profile.php?id=61556929929889)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anirban palit" height="30" width="40" /></a>
 <a href="https://instagram.com/anirban_palit01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anirban_palit01" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anirban palit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anirban palit" height="30" width="40" /></a>
 </p>
