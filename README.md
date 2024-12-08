@@ -26,6 +26,6 @@
 
 
 
-<h1 align="center"># Netflix_SQL_Analysis</h1>
+
 ![Netflix_logo](https://github.com/20Ani01/Netflix_SQL_Analysis/blob/main/Netflix-Logo.png)
-<img alt="Coding" width="400" src="https://github.com/20Ani01/Netflix_SQL_Analysis/blob/main/Netflix-Logo.png">
+<img src="https://github.com/20Ani01/Netflix_SQL_Analysis/blob/main/Netflix-Logo.png">
